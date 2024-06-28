@@ -1,0 +1,10 @@
+{
+  "IsAdult": true,
+  "Id": 1,
+  "TypeId": 3,
+  "Quantity": 10,
+  "Name": "Rahul",
+  "Email": "rahulpce05@gmail.com",
+  "Price": 6.0,
+  "Date": "2024-06-27T21:49:06.5985768+03:00"
+}
